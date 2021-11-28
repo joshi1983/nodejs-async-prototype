@@ -1,0 +1,13 @@
+{
+  "name": "async-test",
+  "version": "0.0.1",
+  "description": "Tiny prototype to test with async, await, promises, and modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josh Greig",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {}
+}
